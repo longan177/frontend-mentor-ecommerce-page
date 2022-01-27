@@ -18,7 +18,7 @@ function Info() {
       <article>
         <p>
           These low-profile sneakers are your perfect casual wear companion.
-          Featuring a durable rubber outer sole, they'll widthstand everything
+          Featuring a durable rubber outer sole, they will widthstand everything
           the weather can offer.
         </p>
       </article>
